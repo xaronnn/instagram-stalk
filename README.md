@@ -5,6 +5,7 @@ Stalk Instagram profiles (followings)
 # Usage
 
 Run `npm i` or `yarn install`
+
 Open `app.js` and edit `const stalks variable`
 
 # License
