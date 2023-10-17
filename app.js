@@ -64,8 +64,8 @@ const stalkProfile = async ({ id, username }) => {
             "sec-fetch-site": "same-site",
             "x-asbd-id": "198387",
             "x-ig-app-id": "936619743392459",
-            "x-ig-www-claim": "hmac.AR03Lg5fcsYehcqyD2NhYsYzcMmWDHvmKq3xY56BQmZkTCs7",
-            "cookie": "mid=YIJqQAALAAEFTVaylCpBuR-F4shu; ig_did=C35333D2-49F9-47CE-98BF-FC08F951A36A; ig_nrcb=1; fbm_124024574287414=base_domain=.instagram.com; ds_user_id="+id+"; datr=MfSPYDoT5BbPSqqfElt7Xw9H; csrftoken=n5CYQnwMHz9f1YHzqWMrVPVkMDvgzj4i; sessionid=2973474595%3ASEipu3JrFVGTJ4%3A10; shbid=\"10450\\0542973474595\\0541667689852:01f74c944a0c92fd2aac93859b281c27c92238b88dada2e8dcfe09bdb934d41122bde8f7\"; shbts=\"1636153852\\0542973474595\\0541667689852:01f7eedc0b58af2cd10f45c958f9671af737f89b47aeff5cccfe841e712ef486f748f23f\"; fbsr_124024574287414=r3eOlVZ35XOPKSDRJL5YXVmm93iA7ZGCWS2cGAN4ylY.eyJ1c2VyX2lkIjoiMTAwMDAwMzg3NDAzMzE5IiwiY29kZSI6IkFRRHJCcVhBcmZWdVMxa3BxaWxHdXN4UUh2bUxYWExycmVzc0RJdnF4S0oyUHBBeUxuUWxOcDN1aW16VEdmdkR5UDJrSjMzX2tMSDdsZWRlZU9CWnY3TEJfY2VLcjQtdUZiOXNMTjR1TWhMZ19vUHJETzlGVmVaVXZJcU91aW11aG9DQmV2cmxnZ1UxVTNQLW5QTWsyaXdFemxzbE91VDJKdDVfLXR0c2ZfOTIxbHdFSlBtY0ZTTUJ6STNBQ1hOdjhwOGFNRTA3b0tiSmJuU0RIQmZCY0t4YWhueWJ1QTRiSUVzUmpvS1RNdWM4c3dKQmFKSXZPNDlWQ3pOQmhQWFpNcFRKWFA3NzFCRmNPY3Z3Yzk3c3htUVBSd2I5dmJFcENoV1ppa0d0YVplZHlHUmczSmQ2dzFmZHdhS2RYNC1xekZwUFloMXU1SUNOUDlWazExT0ZGUndaIiwib2F1dGhfdG9rZW4iOiJFQUFCd3pMaXhuallCQU1DcDlZemdLQXVxcEdVUHhKNUQ5THZJd0h3Q0gwSW5sRFNQS0NHYTJqWkNSWkNFZ2ZYNlNyOTB2RUtxdHBqcmdXeGQ5MnJNQWE2TjVUMllUQ0F6cG1nWkFwRlJhb0RoVE5naUpFNlE4N00xTDRrU2FvblJpNmZneWluMlpDbFBnUUpCclR4MmN5QVNHSm1xbE9nYmRGdVpCZ0xDYWVHMmdCNUlVeGlUNyIsImFsZ29yaXRobSI6IkhNQUMtU0hBMjU2IiwiaXNzdWVkX2F0IjoxNjM2Mzc3NTY2fQ; rur=\"FRC\\0542973474595\\0541667914192:01f7378a64df9529990dbe8abc440aa08e785f737ce2f8a0f7892729c5f4e2b1996aa267\"",
+            "x-ig-www-claim": "your_hmac",
+            "cookie": "your_cookies",
             "referrer": "https://www.instagram.com/",
             "referrerPolicy": "strict-origin-when-cross-origin"
         }
